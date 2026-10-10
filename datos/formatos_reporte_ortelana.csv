@@ -1,0 +1,5 @@
+Frmat,NombreFormato,Frecuencia,Descripcion
+M,Mensual,Mensual,"Ocupa las 12 columnas de manera consecutiva. Metros1 representa Enero, Metros2 Febrero, y así hasta Metros12 que representa Diciembre."
+B,Bimestral,Bimestral,"Ocupa únicamente las primeras 6 columnas de forma consecutiva. Metros1 = Ene/Feb, Metros2 = Mar/Abr, ..., Metros6 = Nov/Dic. Las columnas de Metros7 a Metros12 quedan fijas en 0.0."
+S,Semestral,Semestral,"Ocupa únicamente las primeras 2 columnas de forma consecutiva. Metros1 = 1er Semestre (Ene-Jun), Metros2 = 2do Semestre (Jul-Dic). Las columnas de Metros3 a Metros12 quedan fijas en 0.0."
+E,Temporada Comercial,Estacional,"Ocupa únicamente las primeras 2 columnas de forma consecutiva. Metros1 = Temporada Otoño-Invierno (Acumulado de producción de Marzo a Agosto), Metros2 = Temporada Primavera-Verano (Acumulado de Septiembre a Febrero). Las columnas de Metros3 a Metros12 quedan fijas en 0.0."

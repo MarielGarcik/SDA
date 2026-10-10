@@ -1,0 +1,430 @@
+[
+    {
+        "id": "TELA-001",
+        "nombre": "Denim Pesado 12oz",
+        "linea_textil": "indumentaria",
+        "composicion": "100% algodón",
+        "origen_fibra": "vegetal",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "jean",
+                "ropa de trabajo"
+            ]
+        }
+    },
+    {
+        "id": "TELA-002",
+        "nombre": "Seda Satinada Premium",
+        "linea_textil": "alta_costura",
+        "composicion": "100% seda natural",
+        "origen_fibra": "animal",
+        "tipo_macro": "premium_importado",
+        "metadatos": {
+            "tags_regionales": [
+                "satén",
+                "gala"
+            ]
+        }
+    },
+    {
+        "id": "TELA-003",
+        "nombre": "Lona Cobertora PVC",
+        "linea_textil": "industrial",
+        "composicion": "poliéster con PVC",
+        "origen_fibra": "sintética",
+        "tipo_macro": "industrial",
+        "metadatos": {
+            "tags_regionales": [
+                "toldo",
+                "impermeable"
+            ]
+        }
+    },
+    {
+        "id": "TELA-004",
+        "nombre": "Gabardina Elastizada 8oz",
+        "linea_textil": "indumentaria",
+        "composicion": "97% algodón, 3% spandex",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "basico",
+        "metadatos": {
+            "tags_regionales": [
+                "chino",
+                "uniforme"
+            ]
+        }
+    },
+    {
+        "id": "TELA-005",
+        "nombre": "Gasa de Algodón Lisa",
+        "linea_textil": "alta_costura",
+        "composicion": "100% algodón",
+        "origen_fibra": "vegetal",
+        "tipo_macro": "premium",
+        "metadatos": {
+            "tags_regionales": [
+                "verano",
+                "liviano"
+            ]
+        }
+    },
+    {
+        "id": "TELA-006",
+        "nombre": "Chenille Aterciopelado",
+        "linea_textil": "tapiceria",
+        "composicion": "100% poliéster",
+        "origen_fibra": "sintética",
+        "tipo_macro": "hogar",
+        "metadatos": {
+            "tags_regionales": [
+                "sillón",
+                "antimancha"
+            ]
+        }
+    },
+    {
+        "id": "TELA-007",
+        "nombre": "Paño de Lana Cardado",
+        "linea_textil": "indumentaria",
+        "composicion": "80% lana, 20% poliamida",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "premium",
+        "metadatos": {
+            "tags_regionales": [
+                "tapado",
+                "invierno"
+            ]
+        }
+    },
+    {
+        "id": "TELA-008",
+        "nombre": "Lino Premium Rústico",
+        "linea_textil": "indumentaria",
+        "composicion": "100% lino",
+        "origen_fibra": "vegetal",
+        "tipo_macro": "premium",
+        "metadatos": {
+            "tags_regionales": [
+                "sastrería",
+                "fresco"
+            ]
+        }
+    },
+    {
+        "id": "TELA-009",
+        "nombre": "Tusor de Algodón Liso",
+        "linea_textil": "hogar",
+        "composicion": "100% algodón",
+        "origen_fibra": "vegetal",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "cortina",
+                "almohadón"
+            ]
+        }
+    },
+    {
+        "id": "TELA-010",
+        "nombre": "Microfibra Ripstop Nylon",
+        "linea_textil": "tecnicos",
+        "composicion": "100% nylon ripstop",
+        "origen_fibra": "sintética",
+        "tipo_macro": "industrial",
+        "metadatos": {
+            "tags_regionales": [
+                "outdoor",
+                "antidesgarro"
+            ]
+        }
+    },
+    {
+        "id": "TELA-011",
+        "nombre": "Terciopelo Elastizado",
+        "linea_textil": "alta_costura",
+        "composicion": "92% poliéster, 8% elastano",
+        "origen_fibra": "sintética",
+        "tipo_macro": "premium",
+        "metadatos": {
+            "tags_regionales": [
+                "velvet",
+                "noche"
+            ]
+        }
+    },
+    {
+        "id": "TELA-012",
+        "nombre": "Geotextil No Tejido",
+        "linea_textil": "tecnicos",
+        "composicion": "100% polipropileno",
+        "origen_fibra": "sintética",
+        "tipo_macro": "infraestructura",
+        "metadatos": {
+            "tags_regionales": [
+                "obra vial",
+                "filtro"
+            ]
+        }
+    },
+    {
+        "id": "TELA-013",
+        "nombre": "Mediasombra Alta Densidad",
+        "linea_textil": "industrial",
+        "composicion": "PEAD",
+        "origen_fibra": "sintética",
+        "tipo_macro": "industrial",
+        "metadatos": {
+            "tags_regionales": [
+                "granizo",
+                "cochera"
+            ]
+        }
+    },
+    {
+        "id": "TELA-014",
+        "nombre": "Jacquard Pesado Relieve",
+        "linea_textil": "tapiceria",
+        "composicion": "60% algodón, 40% poliéster",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "hogar",
+        "metadatos": {
+            "tags_regionales": [
+                "tapizado",
+                "brocado"
+            ]
+        }
+    },
+    {
+        "id": "TELA-015",
+        "nombre": "Percal 200 Hilos Hotelero",
+        "linea_textil": "hogar",
+        "composicion": "50% algodón, 50% poliéster",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "basico",
+        "metadatos": {
+            "tags_regionales": [
+                "sábana",
+                "blanquería"
+            ]
+        }
+    },
+    {
+        "id": "TELA-016",
+        "nombre": "Polar Soft Faz Doble",
+        "linea_textil": "hogar",
+        "composicion": "100% poliéster microfibra",
+        "origen_fibra": "sintética",
+        "tipo_macro": "hogar",
+        "metadatos": {
+            "tags_regionales": [
+                "manta",
+                "frazada"
+            ]
+        }
+    },
+    {
+        "id": "TELA-017",
+        "nombre": "Mantelería Antimanchas Estampada",
+        "linea_textil": "hogar",
+        "composicion": "70% poliéster, 30% algodón",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "mantel",
+                "resinado"
+            ]
+        }
+    },
+    {
+        "id": "TELA-018",
+        "nombre": "Tusor Estampado Botánico",
+        "linea_textil": "hogar",
+        "composicion": "100% algodón",
+        "origen_fibra": "vegetal",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "estampado",
+                "decoración"
+            ]
+        }
+    },
+    {
+        "id": "TELA-019",
+        "nombre": "Lana de Guanaco Alta Gama",
+        "linea_textil": "alta_costura",
+        "composicion": "100% fibra de guanaco",
+        "origen_fibra": "animal",
+        "tipo_macro": "premium",
+        "metadatos": {
+            "tags_regionales": [
+                "norteña",
+                "hilado artesanal"
+            ]
+        }
+    },
+    {
+        "id": "TELA-020",
+        "nombre": "Lana de Llama Selección",
+        "linea_textil": "indumentaria",
+        "composicion": "100% fibra de llama",
+        "origen_fibra": "animal",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "poncho",
+                "norteño"
+            ]
+        }
+    },
+    {
+        "id": "TELA-021",
+        "nombre": "Satén de Lycra Brillante",
+        "linea_textil": "indumentaria",
+        "composicion": "95% poliéster, 5% elastano",
+        "origen_fibra": "sintética",
+        "tipo_macro": "basico",
+        "metadatos": {
+            "tags_regionales": [
+                "lencería",
+                "forrería"
+            ]
+        }
+    },
+    {
+        "id": "TELA-022",
+        "nombre": "Cuerina Ecológica Búfalo",
+        "linea_textil": "marroquineria",
+        "composicion": "soporte textil con PU",
+        "origen_fibra": "sintética",
+        "tipo_macro": "basico",
+        "metadatos": {
+            "tags_regionales": [
+                "cuero ecológico",
+                "bolsos"
+            ]
+        }
+    },
+    {
+        "id": "TELA-023",
+        "nombre": "Cuerina Náutica Heavy",
+        "linea_textil": "tapiceria",
+        "composicion": "PVC expandido alta resistencia",
+        "origen_fibra": "sintética",
+        "tipo_macro": "industrial",
+        "metadatos": {
+            "tags_regionales": [
+                "asiento moto",
+                "gimnasio"
+            ]
+        }
+    },
+    {
+        "id": "TELA-024",
+        "nombre": "Polisap Deportivo Técnico",
+        "linea_textil": "deportivo",
+        "composicion": "88% poliéster, 12% elastano",
+        "origen_fibra": "sintética",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "calza",
+                "fitness"
+            ]
+        }
+    },
+    {
+        "id": "TELA-025",
+        "nombre": "Dri-Fit Microperforado",
+        "linea_textil": "deportivo",
+        "composicion": "100% poliéster hidrofílico",
+        "origen_fibra": "sintética",
+        "tipo_macro": "premium_importado",
+        "metadatos": {
+            "tags_regionales": [
+                "camiseta",
+                "transpirable"
+            ]
+        }
+    },
+    {
+        "id": "TELA-026",
+        "nombre": "Rústico de Algodón con Invisible",
+        "linea_textil": "indumentaria",
+        "composicion": "100% algodón frizado",
+        "origen_fibra": "vegetal",
+        "tipo_macro": "basico",
+        "metadatos": {
+            "tags_regionales": [
+                "buzo",
+                "frisa",
+                "jogging"
+            ]
+        }
+    },
+    {
+        "id": "TELA-027",
+        "nombre": "Escocés de Lana Wellington",
+        "linea_textil": "indumentaria",
+        "composicion": "70% lana, 30% poliéster hilado",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "nacional",
+        "metadatos": {
+            "tags_regionales": [
+                "tartán",
+                "kilt",
+                "invierno",
+                "saco"
+            ]
+        }
+    },
+    {
+        "id": "TELA-028",
+        "nombre": "Bengala Elastizada Premium",
+        "linea_textil": "indumentaria",
+        "composicion": "65% rayón, 30% nylon, 5% spandex",
+        "origen_fibra": "mezcla",
+        "tipo_macro": "basico",
+        "metadatos": {
+            "tags_regionales": [
+                "pantalón",
+                "bengalina",
+                "calce"
+            ]
+        }
+    },
+    {
+        "id": "TELA-029",
+        "nombre": "Simil Cuero Metalizado Holográfico",
+        "linea_textil": "marroquineria",
+        "composicion": "base poliéster con film metálico purificado",
+        "origen_fibra": "sintética",
+        "tipo_macro": "premium_importado",
+        "metadatos": {
+            "tags_regionales": [
+                "metalizado",
+                "mochilas",
+                "fiesta",
+                "brillo"
+            ]
+        }
+    },
+    {
+        "id": "TELA-030",
+        "nombre": "Lúrex con Brillo Plata",
+        "linea_textil": "alta_costura",
+        "composicion": "85% poliamida, 15% hilos metálicos",
+        "origen_fibra": "sintética",
+        "tipo_macro": "premium",
+        "metadatos": {
+            "tags_regionales": [
+                "lúrex",
+                "noche",
+                "destellos",
+                "navidad"
+            ]
+        }
+    }
+]

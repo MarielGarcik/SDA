@@ -1,0 +1,17 @@
+id,nombre,linea_textil,composicion,origen_fibra,tipo_macro
+TELA-001,Denim Pesado 12oz,indumentaria,100% algodón,vegetal,nacional
+TELA-002,Seda Satinada Premium,alta_costura,100% seda natural,animal,premium_importado
+TELA-003,Lona Cobertora PVC,industrial,poliéster con recubrimiento de PVC,sintética,industrial
+TELA-004,Gabardina Elastizada 8oz,indumentaria,"97% algodón, 3% spandex",mezcla,basico
+TELA-005,Gasa de Algodón,alta_costura,100% algodón,vegetal,premium
+TELA-006,Chenille Aterciopelado,tapiceria,100% poliéster,sintética,hogar
+TELA-007,Paño de Lana Cardado,indumentaria,"80% lana, 20% poliamida",mezcla,premium
+TELA-008,Lino Premium Rústico,indumentaria,100% lino,vegetal,premium
+TELA-009,Tusor de Algodón,hogar,100% algodón,vegetal,nacional
+TELA-010,Microfibra Ripstop Nylon,tecnicos,100% nylon ripstop,sintética,industrial
+TELA-011,Terciopelo Elastizado,alta_costura,"92% poliéster, 8% elastano",sintética,premium
+TELA-012,Geotextil No Tejido,tecnicos,100% polipropileno,sintética,infraestructura
+TELA-013,Mediasombra Alta Densidad,industrial,polietileno de alta densidad (PEAD),sintética,industrial
+TELA-014,Jacquard Pesado Relieve,tapiceria,"60% algodón, 40% poliéster",mezcla,hogar
+TELA-015,Percal 200 Hilos Hotelero,hogar,"50% algodón, 50% poliéster",mezcla,basico
+TELA-016,Polar Soft Faz Doble,hogar,100% poliéster microfibra,sintética,hogar
